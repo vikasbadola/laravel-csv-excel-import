@@ -33,8 +33,18 @@ php artisan migrate
 php artisan serve 
 open browser and run http://127.0.0.1:8000/
 Register one user and login to import file.
-
 ```
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/6604713/182132702-2e62a787-f3da-442c-a6c0-21e7e3c3eb03.png)
+
+![image](https://user-images.githubusercontent.com/6604713/182132916-f99e956a-b195-4eff-b72b-cc5a34c71ee4.png)
+
+![image](https://user-images.githubusercontent.com/6604713/182133136-a97ef640-95d5-4d01-8eb4-7ffe31188d66.png)
+
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
