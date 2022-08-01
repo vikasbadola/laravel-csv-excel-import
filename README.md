@@ -30,7 +30,10 @@ php artisan migrate
 ```
 - Run the project.
 ```
-php artisan serve, open browser and run http://127.0.0.1:8000/
+php artisan serve 
+open browser and run http://127.0.0.1:8000/
+Register one user and login to import file.
+
 ```
 ## License
 
