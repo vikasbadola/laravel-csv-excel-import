@@ -19,7 +19,7 @@ In this project there is an implementation of Laravel csv/excel file import and 
 ## Setup
 
 - Clone or download the code.
-- cd to your downloaded code ```cd zonbase-practical```
+- cd to your downloaded code ```cd laravel-csv-excel-import```
 - run ```composer install```
 - rename .env.example to .env
 - run ```php artisan key:generate```
